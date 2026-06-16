@@ -7,7 +7,7 @@
 <!-- ═══════════════ HEADER WAVE ═══════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:3B82F6,100:8B5CF6&height=220&section=header&text=DAKSH%20BHAVSAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20AI%20Developer&descSize=18&descAlignY=52&descColor=EDE9FE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:3B82F6,100:8B5CF6&height=220&section=header&text=DAKSH%20BHAVSAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20and%20AI%20Developer&descSize=18&descAlignY=52&descColor=EDE9FE" width="100%" />
 </p>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
@@ -162,12 +162,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/DakshBhavsar007">
-          <img src="https://github-readme-stats.vercel.app/api?username=DakshBhavsar007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=3B82F6&text_color=c9d1d9&ring_color=8B5CF6&rank_icon=github&cache_seconds=0" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=DakshBhavsar007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00F2FE&icon_color=3B82F6&text_color=c9d1d9&ring_color=8B5CF6&rank_icon=github&cache_seconds=0" width="100%" alt="GitHub Stats" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/DakshBhavsar007">
-          <img src="https://streak-stats.demolab.com?user=DakshBhavsar007&hide_border=true&background=0D1117&ring=00F2FE&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=00F2FE&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=3B82F6" width="100%" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=DakshBhavsar007&hide_border=true&background=000000&ring=00F2FE&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=00F2FE&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=3B82F6" width="100%" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
@@ -177,7 +177,7 @@
 <!-- Row 2: Top Languages -->
 <p align="center">
   <a href="https://github.com/DakshBhavsar007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshBhavsar007&layout=compact&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9&cache_seconds=0" width="42%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshBhavsar007&layout=compact&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=000000&title_color=00F2FE&text_color=c9d1d9&cache_seconds=0" width="42%" alt="Top Languages" />
   </a>
 </p>
 
@@ -193,7 +193,7 @@
 
 <p align="center">
   <a href="https://github.com/DakshBhavsar007">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshBhavsar007&bg_color=0d1117&color=00F2FE&line=3B82F6&point=EDE9FE&area_color=8B5CF6&area=true&hide_border=true&custom_title=Daksh's%20Contribution%20Activity" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshBhavsar007&bg_color=000000&color=00F2FE&line=3B82F6&point=EDE9FE&area_color=8B5CF6&area=true&hide_border=true&custom_title=Daksh's%20Contribution%20Activity" width="100%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -227,7 +227,7 @@
 
 <p align="center">
   <a href="https://github.com/DakshBhavsar007">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=000000" alt="Random Dev Quote" />
   </a>
 </p>
 
