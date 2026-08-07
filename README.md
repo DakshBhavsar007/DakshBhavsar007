@@ -82,14 +82,14 @@
 
 <br>
 
-### 🔍 Vishleshan — Multi-Agent Recruitment Intelligence Platform
+### 🔍 Between — Multi-Agent Recruitment Intelligence Platform
 > **Enterprise-grade ATS & Developer SaaS Portal**
 >
 > Runs a coordinated system of 7 specialized AI agents for semantic resume parsing, candidate matching, fraud detection, and recruitment analytics.
 >
 > ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
 >
-> [**View Repository ↗**](https://github.com/dakshbhavsar007/DAIICT_Hackathon-26)
+> [**View Repository ↗**](https://github.com/dakshbhavsar007/Between)
 
 <br>
 
