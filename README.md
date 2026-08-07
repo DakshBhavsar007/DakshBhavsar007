@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DakshBhavsar007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+B.E.+Computer+Engineering+Student;%F0%9F%92%BB+React+%7C+FastAPI+%7C+Django+%7C+Python;%E2%9A%A1+Creator+of+SevaSetu+and+Vishleshan;%F0%9F%A4%9D+Open+to+collaborations+and+new+projects&background=000000&v=2" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+B.E.+Computer+Engineering+Student;%F0%9F%92%BB+React+%7C+FastAPI+%7C+Django+%7C+Python;%E2%9A%A1+Creator+of+SevaSetu+and+Between;%F0%9F%A4%9D+Open+to+collaborations+and+new+projects&background=000000&v=2" alt="Typing Animation" />
   </a>
 </p>
 
